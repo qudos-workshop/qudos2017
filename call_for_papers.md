@@ -25,7 +25,7 @@ Topics of interest include, but are not limited to:
    - Case Studies in cloud computing, Big Data, and IoT; standardization and interoperability; novel application domains, etc.
 * All other topics related to quality in DevOps and agile Service delivery models
 
-### SUBMISSION GUIDELINES
+### Submission Guidelines
 
 Authors are invited to submit original, unpublished papers that are not being considered in another forum. We solicit full papers (max 6 pages), short tool papers (max 2 pages). All submissions must conform to the [ACM conference format](http://www.acm.org/sigs/publications/proceedings-templates). Each submission will be reviewed by at least two members of the program committee.
 
@@ -33,6 +33,6 @@ Papers should be submitted via EasyChair at: [https://easychair.org/conferences/
 
 At least one author of each accepted paper is required to attend theworkshop and present the paper. Presented papers will be published by ACM and included in the ACM Digital Library.
 
-### DOWNLOAD Call for Papers
+### Download Call for Papers
 
 As PDF or TXT.
