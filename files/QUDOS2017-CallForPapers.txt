@@ -1,0 +1,158 @@
+------------------------------------------------------------------------
+                            CALL FOR PAPERS
+
+                               QUDOS 2017
+            3rd International Workshop on Quality-Aware DevOps
+
+                         Co-located with the
+   8th ACM/SPEC International Conference on Performance Engineering
+                             (ICPE 2017)
+
+                          L’Aquila, Italy
+                           April 27, 2017
+
+                  http://qudos2017.fortiss.org/
+
+------------------------------------------------------------------------
+IMPORTANT DATES
+
+Full paper submission deadline            Jan 20, 2017 (AoE)*
+Tool paper abstract deadline (mandatory)  Jan 20, 2017 (AoE)*
+Tool paper submission deadline            Jan 23, 2017 (AOE)*
+Paper notification                        Feb 10, 2017
+Camera-ready deadline                     Feb 16, 2017
+Workshop date                           April 27, 2017
+
+ *deadline extended
+
+------------------------------------------------------------------------
+SCOPE AND TOPICS
+
+DevOps has emerged in recent years as a set of principles and practices 
+for smoothing out the gap between development and operations, thus 
+enabling faster release cycles for complex IT services. Common tools and 
+methods used in DevOps include infrastructure as code, continuous 
+deployment, automated testing, continuous integration, and new 
+architectural styles such as microservices.
+
+As of today, software engineering research has mainly explored these 
+problems from a functional perspective, trying to increase the benefits 
+and generality of these methods for the end users. However, this has left 
+behind the definition of methods and tools for DevOps to assess, predict, 
+and verify quality dimensions.
+
+The QUDOS workshop focuses on the problem of how to best define and 
+integrate quality assurance methods and tools in DevOps. Quality covers 
+a broadly-defined set of dimensions including functional correctness, 
+performance, reliability, safety, survivability, and cost of ownership, 
+among others. To answer this question, the QUDOS workshop wants to bring 
+together experts from  academia and industry working in areas such as 
+quality assurance, testing, performance engineering, agile software 
+engineering, and model-based development. The goal is to identify and 
+disseminate novel quality-aware approaches to DevOps.
+
+Topics of interest include, but are not limited to:
+
+ * Foundations of quality assurance in DevOps:
+   Methodologies; integration with lifecycle management; automated
+   tool chains; architecture patterns; etc.
+ * Architectural issues in DevOps:
+   Scalability and capacity planning; scale-out architectures;
+   cloud-native application design; microservice-based architectures
+ * Quality assurance in the development phase:
+   Software models and requirements in early software development
+   phases; functional and non-functional testing; languages,
+   annotations and profiles for quality assurance; quality analysis,
+   verification and prediction; optimization-based architecture design;
+   etc.
+ * Quality assurance during operation:
+   Application performance monitoring; model-driven performance
+   measurement and benchmarking; feedback-based quality assurance;
+   capacity planning and forecasting; architectural improvements;
+   performance anti-pattern detection; traceability and versioning;
+   trace and log analysis; software regression and testing; performance
+   monitoring and analytics; etc.
+ * Continuous deployment and live experimentation:
+   CI and CD in DevOps; canary releases and partial rollouts; A/B
+   testing; performance and scalability testing via shadow launches
+ * Applications of DevOps:
+   Case Studies in cloud computing, Big Data, and IoT; standardization
+   and interoperability; novel application domains, etc.
+ * All other topics related to quality in DevOps and agile service
+   delivery models
+
+For more details, please visit: http://qudos2017.fortiss.org/
+
+------------------------------------------------------------------------
+ORGANIZING COMMITTEE
+
+Program Committee Chairs
+ Elisabetta Di Nitto, Politecnico di Milano, Italy  
+ Philipp Leitner, University of Zurich, Switzerland
+
+Workshop Chairs (Steering Committee)
+ Danilo Ardagna, Politecnico di Milano, Italy  
+ Giuliano Casale, Imperial College London, UK  
+ Andre van Hoorn, University of Stuttgart, Germany  
+ Felix Willnecker, fortiss GmbH, Germany
+
+Program Committee
+ Varsha Apte, IIT Bombay, India
+ Alberto Avritzer, Sonatype Inc., USA
+ Cor-Paul Bezemer, Queen’s University, Canada  
+ Andreas Brunnert, RETIT, Germany  
+ Lubomír Bulej, Charles University Prague, CZ  
+ David Carrera, Universitat Politècnica de Catalunya, Spain  
+ Juergen Cito, University of Zurich, Switzerland  
+ Pooyan Jamshidi, Imperial College London, UK  
+ Christophe Joubert, Prodevelop, Spain  
+ Cristian Klein, Umea University, Sweden  
+ Klaus-Dieter Lange, Hewlett Packard Enterprise, USA  
+ Marin Litoiu, York University, Toronto, Ontario  
+ Zhen Ming (Jack) Jiang, York University, Canada  
+ Manoj Nambiar, Tata Consultancy Services, India  
+ Cesare Pautasso, University of Lugano, Switzerland  
+ Diego Perez-Palacin, Universidad de Zaragoza, Spain  
+ Dana Petcu, IEAT, Romania  
+ Dorina Petriu, Carleton University, Canada  
+ Meikel Poess, Oracle Corporation, USA  
+ Craig Sheridan, Flexiant, UK  
+ Arnor Solberg, SINTEF, Norway  
+ Josef Spillner, ZHAW Winterthur, Switzerland  
+ Damian Andrew Tamburri, Politecnico di Milano, Italy  
+ Asser Tantawi, IBM Research, USA  
+ Catia Trubiani, Gran Sasso Science Institute, Italy  
+ Ingo Weber, NICTA, Australia  
+ Erik Wilde, CA API Academy, USA
+
+------------------------------------------------------------------------
+SUBMISSION GUIDELINES
+
+Authors are invited to submit original, unpublished papers that are not 
+being considered in another forum.  We solicit full papers (max
+6 pages) and short tool papers (max 2 pages). All submissions must 
+conform to the ACM conference format. Each full paper submission will 
+be reviewed by at least three members of the program committee.
+
+Papers should be submitted via EasyChair at:
+https://easychair.org/conferences/?conf=qudos2017
+
+At least one author of each accepted paper is required to attend the 
+workshop and present the paper. Presented papers will be published by 
+ACM and included in the ACM Digital Library.
+
+------------------------------------------------------------------------
+ORGANIZATION AND SUPPORT
+
+QUDOS 2017 is organized and technically sponsored by the Research Group
+(RG) and the RG DevOps Performance Working Group of the Standard 
+Performance Evaluation Corporation (SPEC RG, http://research.spec.org), 
+and by the consortium of the EU project DICE (http://dice-h2020.eu).
+
+QUDOS 2017 is supported by the IFIP Working Group on Service Oriented 
+Systems (http://ifip-wg-sos.deib.polimi.it/), by the Associazione 
+Italiana per l'informatica e il Calcolo Automatico 
+(AICA, http://www.aicanet.it/), and by the DFG Priority Programme 1593 
+(SPP 1593) "Design For Future - Managed Software Evolution" 
+(http://www.dfg-spp1593.de/), funded by the German Research Foundation 
+(DFG).
