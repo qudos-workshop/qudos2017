@@ -35,4 +35,4 @@ At least one author of each accepted paper is required to attend theworkshop and
 
 ### Download Call for Papers
 
-As PDF or TXT.
+As [PDF](/files/QUDOS2017-CallForPapers.pdf) or [TXT](/files/QUDOS2017-CallForPapers.txt).

@@ -1,7 +1,8 @@
 ---
+layout: page
 title: About QUDOS
 redirect_to:
-  - https://qudos-workshop.github.io
+  - http://qudos-workshop.github.io
 ---
 
 
