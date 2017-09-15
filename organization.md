@@ -3,15 +3,15 @@ layout: page
 title: Organization
 permalink: /organization/
 ---
-### Workshop Chairs
+## Workshop Chairs
 
-#### Program Committee Chairs
+### Program Committee Chairs
 
 Elisabetta Di Nitto, Politecnico di Milano, Italy
 
 Philipp Leitner, University of Zurich, Switzerland 
 
-#### Steering Comittee
+### Steering Comittee
 
 Danilo Ardagna, Politecnico di Milano, Italy
 
@@ -21,7 +21,7 @@ Andre van Hoorn, University of Stuttgart, Germany
 
 Felix Willnecker, fortiss GmbH, Germany
 
-### Program Committee
+## Program Committee
 
 Varsha Apte, IIT Bombay, India
 
